@@ -1,5 +1,5 @@
 # hello-world
 hello world!
 
-I am firecat. I am learning C language.
-I want to be good at it, but now, I am not good at programming.
+I am firecat32. I am learning C language and a bit about python.
+I want to be good at both, but now, I am still not good at programming.
